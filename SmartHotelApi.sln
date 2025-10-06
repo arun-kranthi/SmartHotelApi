@@ -1,0 +1,8 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHotel.Api", "src/SmartHotel.Api/SmartHotelApi.csproj", "{9E4D3F9D-4F51-4C6E-8C9B-9D8A3C3B1B7A}"
+EndProject
+Global
+EndGlobal
